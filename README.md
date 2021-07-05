@@ -1,2 +1,2 @@
 # DCNNs
-DCNN models based on soil hyperspectral data modeling
+DCNN models based on LUCAS spectral library modeling
